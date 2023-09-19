@@ -3,6 +3,8 @@
     height: 600px;
     width: 900px;
     position: absolute;
+    margin-top: 50px;
+    margin-left: 20%;
 }
 .orange{
     background-color: orange;
